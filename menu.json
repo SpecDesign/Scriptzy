@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "Main Menu",
+        "menu": [
+            { "title": "Information", "target": "2" },
+            { "title": "Dashboards", "target": "3" },
+            { "title": "Apps & Pages", "target": "4" },
+            { "title": "Components", "target": "5" },
+            { "title": "Advanced" },
+            { "title": "Elements" },
+            { "title": "Widgets" },
+            { "title": "Tables" },
+            { "title": "Forms" },
+            { "title": "Users" },
+            { "title": "Authentication" },
+            { "title": "Icons", "target": "13" }
+        ]
+    },
+    {
+        "id": "2",
+        "title": "Information",
+        "menu": [
+            { "title": "Settings" },
+            { "title": "Documentation" }
+        ]
+    },
+    {
+        "id": "3",
+        "title": "Dashboards",
+        "menu": [
+            { "title": "Analytics" },
+            { "title": "Statistics" }
+        ]
+    },
+    {
+        "id": "4",
+        "title": "Apps & Pages",
+        "menu": [
+            { "title": "Merge Number Game" },
+            { "title": "Pricing Tables" },
+            { "title": "Invoices" },
+            { "title": "FAQ" },
+            { "title": "Users" },
+            { "title": "Account" }
+        ]
+    },
+    {
+        "id": "5",
+        "title": "Components",
+        "menu": [
+            { "title": "Bootstrap", "target": "14" }
+        ]
+    },
+    {
+        "id": "13",
+        "title": "Icons",
+        "menu": [
+            { "title": "Feather - Simply beautiful open source icons", "url": "https://feathericons.com/" }
+        ]
+    },
+    {
+        "id": "14",
+        "title": "Bootstrap",
+        "menu": [
+            { "title": "Alerts", "url": "https://getbootstrap.com/docs/4.4/components/alerts/" },
+            { "title": "Badge", "url": "https://getbootstrap.com/docs/4.4/components/badge/" },
+            { "title": "Breadcrumb", "url": "https://getbootstrap.com/docs/4.4/components/breadcrumb/" },
+            { "title": "Buttons", "url": "https://getbootstrap.com/docs/4.4/components/buttons/" },
+            { "title": "Button Group", "url": "https://getbootstrap.com/docs/4.4/components/button-group/" },
+            { "title": "Card", "url": "https://getbootstrap.com/docs/4.4/components/card/" },
+            { "title": "Carousel", "url": "https://getbootstrap.com/docs/4.4/components/carousel/" },
+            { "title": "Collapse", "url": "https://getbootstrap.com/docs/4.4/components/collapse/" },
+            { "title": "Dropdowns", "url": "https://getbootstrap.com/docs/4.4/components/dropdowns/" },
+            { "title": "Forms", "url": "https://getbootstrap.com/docs/4.4/components/forms/" },
+            { "title": "Input Group", "url": "https://getbootstrap.com/docs/4.4/components/input-group/" },
+            { "title": "Jumbotron", "url": "https://getbootstrap.com/docs/4.4/components/jumbotron/" },
+            { "title": "List Group", "url": "https://getbootstrap.com/docs/4.4/components/list-group/" },
+            { "title": "Media Object", "url": "https://getbootstrap.com/docs/4.4/components/media-object/" },
+            { "title": "Modal", "url": "https://getbootstrap.com/docs/4.4/components/modal/" },
+            { "title": "Navs", "url": "https://getbootstrap.com/docs/4.4/components/navs/" },
+            { "title": "Navbar", "url": "https://getbootstrap.com/docs/4.4/components/navbar/" },
+            { "title": "Pagination", "url": "https://getbootstrap.com/docs/4.4/components/pagination/" },
+            { "title": "Popovers", "url": "https://getbootstrap.com/docs/4.4/components/popovers/" },
+            { "title": "Progress", "url": "https://getbootstrap.com/docs/4.4/components/progress/" },
+            { "title": "Scrollspy", "url": "https://getbootstrap.com/docs/4.4/components/scrollspy/" },
+            { "title": "Spinners", "url": "https://getbootstrap.com/docs/4.4/components/spinners/" },
+            { "title": "Toasts", "url": "https://getbootstrap.com/docs/4.4/components/toasts/" },
+            { "title": "Tooltips", "url": "https://getbootstrap.com/docs/4.4/components/tooltips/" }
+        ]
+    }
+]
